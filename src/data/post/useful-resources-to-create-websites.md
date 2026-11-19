@@ -11,7 +11,7 @@ tags:
   - tools
 ---
 
-A professional website is a hundred small decisions: which icon set, which font pairing, where the hero photo comes from, how to check contrast, how to make the social preview look right. Each decision has a tool that makes it easy, and finding those tools is half the work. This is the list we keep coming back to.
+A professional website is a hundred small decisions: which icon set, which font pairing, where the hero photo comes from, how to check contrast, how to make the social preview look right. Each decision has a tool that makes it easy, and finding those tools is half the work. This is the list we keep coming back to. QA-B
 
 Everything here is free to use or has a generous free tier, is actively maintained, and can be browsed without creating an account. Where a resource has a license worth knowing about, it is mentioned. The list is grouped by the stage of the work, from the first sketch to the day after launch.
 
